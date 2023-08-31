@@ -1,0 +1,57 @@
+[{
+
+		"Load_type": "1",
+		"active_flag": "True",
+		"src_path": " ",
+		"dest_path ": " ",
+		"files_list": ["file.csv "],
+		"prefix": "/path/to/file ",
+		"source_placeholder ": "s3_source",
+		"destination_placeholder": "s3_target"
+	},
+
+	{
+		"Load_type": "2",
+		"active_flag": "False",
+		"src_path": " ",
+		"dest_path": " ",
+		"files_list": ["file.csv"],
+		"prefix": "/path/to/file",
+		"source_placeholder ": "s3_source",
+		"destination_placeholder": "s3_target"
+	},
+
+	{
+		"Load_type":"3",
+		"active_flag": "False",
+		"src_path": " ",
+		"dest_path": " ",
+		"files_list": ["file.csv"],
+		"prefix": "/path/to/file",
+		"source_placeholder ": " s3_source",
+		"destination_placeholder": "s3_target"
+
+	},
+
+	{
+		"Load_type":"4",
+		"active_flag": "False",
+		"src_path": " ",
+		"dest_path": " ",
+		"files_list": ["file.csv"],
+		"prefix": "/path/to/file",
+		"source_placeholder": "s3_source",
+		"destination_placeholder": "s3_target"
+	},
+
+	{
+		"Load_type":"5",
+		"active_flag": "False",
+		"s3_source": " ",
+		"s3_target ": " ",
+		"files_list": ["file.csv"],
+		"prefix": "/path/to/file ",
+		"source_placeholder ": "s3_source",
+		"destination_placeholder": "s3_target"
+	}
+]
